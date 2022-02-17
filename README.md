@@ -6,9 +6,11 @@
 
 This repo consists few intresting turtle projects. This projects include cartoon characters like Doraemon, Peppa pig, etc.
 
+<hr>
+
 #### Turtle Graphics
 
-<hr>
+
 
 `turtle graphics` are vector graphics using a relative cursor (the "turtle") upon a Cartesian plane (x and y axis). Turtle graphics is a key feature of the Logo programming language.
 
